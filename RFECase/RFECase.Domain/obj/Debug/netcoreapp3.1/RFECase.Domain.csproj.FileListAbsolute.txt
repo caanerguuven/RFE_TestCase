@@ -1,0 +1,9 @@
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.AssemblyInfoInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.AssemblyInfo.cs
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.csproj.CoreCompileInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\bin\Debug\netcoreapp3.1\RFECase.Domain.deps.json
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\bin\Debug\netcoreapp3.1\RFECase.Domain.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\bin\Debug\netcoreapp3.1\RFECase.Domain.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Domain\obj\Debug\netcoreapp3.1\RFECase.Domain.pdb

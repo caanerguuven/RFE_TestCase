@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RFECase.Service/1.0.0": {
+        "dependencies": {
+          "RFECase.Repository": "1.0.0"
+        },
+        "runtime": {
+          "RFECase.Service.dll": {}
+        }
+      },
+      "RFECase.Domain/1.0.0": {
+        "runtime": {
+          "RFECase.Domain.dll": {}
+        }
+      },
+      "RFECase.Repository/1.0.0": {
+        "dependencies": {
+          "RFECase.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RFECase.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RFECase.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RFECase.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RFECase.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

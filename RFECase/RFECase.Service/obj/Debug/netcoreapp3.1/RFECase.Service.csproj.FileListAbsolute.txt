@@ -1,0 +1,15 @@
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.csproj.AssemblyReference.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.AssemblyInfoInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.AssemblyInfo.cs
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.csproj.CoreCompileInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Service.deps.json
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Service.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Service.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Domain.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Repository.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Repository.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\bin\Debug\netcoreapp3.1\RFECase.Domain.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.csproj.CopyComplete
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Service\obj\Debug\netcoreapp3.1\RFECase.Service.pdb

@@ -1,0 +1,13 @@
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.csproj.AssemblyReference.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.AssemblyInfoInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.AssemblyInfo.cs
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.csproj.CoreCompileInputs.cache
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\bin\Debug\netcoreapp3.1\RFECase.Repository.deps.json
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\bin\Debug\netcoreapp3.1\RFECase.Repository.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\bin\Debug\netcoreapp3.1\RFECase.Repository.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\bin\Debug\netcoreapp3.1\RFECase.Domain.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\bin\Debug\netcoreapp3.1\RFECase.Domain.pdb
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.csproj.CopyComplete
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.dll
+D:\MyInterestProject\RFECase\RFECase\RFECase.Repository\obj\Debug\netcoreapp3.1\RFECase.Repository.pdb

@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Service\\RFECase.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\RFECase.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\RFECase.Domain.csproj",
+        "projectName": "RFECase.Domain",
+        "projectPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\RFECase.Domain.csproj",
+        "packagesPath": "C:\\Users\\caane\\.nuget\\packages\\",
+        "outputPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\LightingControl\\SourceProjects\\CrestronDrivers\\packages\\Fixed": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\RFECase.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\RFECase.Repository.csproj",
+        "projectName": "RFECase.Repository",
+        "projectPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\RFECase.Repository.csproj",
+        "packagesPath": "C:\\Users\\caane\\.nuget\\packages\\",
+        "outputPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\LightingControl\\SourceProjects\\CrestronDrivers\\packages\\Fixed": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\RFECase.Domain.csproj": {
+                "projectPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Domain\\RFECase.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Service\\RFECase.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Service\\RFECase.Service.csproj",
+        "projectName": "RFECase.Service",
+        "projectPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Service\\RFECase.Service.csproj",
+        "packagesPath": "C:\\Users\\caane\\.nuget\\packages\\",
+        "outputPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\LightingControl\\SourceProjects\\CrestronDrivers\\packages\\Fixed": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\RFECase.Repository.csproj": {
+                "projectPath": "D:\\MyInterestProject\\RFECase\\RFECase\\RFECase.Repository\\RFECase.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

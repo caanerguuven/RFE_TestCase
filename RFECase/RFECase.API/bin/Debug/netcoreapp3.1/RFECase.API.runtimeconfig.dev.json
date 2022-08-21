@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\caane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\caane\\.nuget\\packages"
+    ]
+  }
+}
